@@ -11,3 +11,5 @@
 I am soldering the components and making a case for it, possibly with hinges for opening and closing. The journal file and CAD files has more updates on progress. 
 
 
+![Soldered PCB](images/blink-pcb.jpeg)
+![Case making work in progress](images/wip-case.png)
