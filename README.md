@@ -12,4 +12,4 @@ I am soldering the components and making a case for it, possibly with hinges for
 
 
 ![Soldered PCB](images/blink-pcb.jpeg)
-![Case making work in progress](images/wip-case.png)
+![Case making](images/blink-hinge.png)
