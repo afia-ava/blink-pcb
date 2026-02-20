@@ -14,3 +14,6 @@ I extruded all the empty holes for the switches and the lights.
 
 ## Entry 5 
 I had added a hinge to open and close the box. However, I fear this hinge is too small to be printed and work functionally. I'll be printing out a test run soon to figure out if it can function well. Great if it works, or else I might need to find some other way to open and close this pcb box. 
+
+## Entry 6
+The last print failed. Two major reasons were: the hinge being way to small to even rotate (I should've stimulated a rotation in CAD software which I didn't) and I also hoped the "body" being different would print it separately. It wasn't well placed on the print body with the rotation so it was printed altogether. I made some changes today trying to solve for this two main issues. I also worked on a better measured snap on hinge. 
