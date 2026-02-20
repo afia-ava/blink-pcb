@@ -17,3 +17,6 @@ I had added a hinge to open and close the box. However, I fear this hinge is too
 
 ## Entry 6
 The last print failed. Two major reasons were: the hinge being way to small to even rotate (I should've stimulated a rotation in CAD software which I didn't) and I also hoped the "body" being different would print it separately. It wasn't well placed on the print body with the rotation so it was printed altogether. I made some changes today trying to solve for this two main issues. I also worked on a better measured snap on hinge. 
+
+## Entry 7 
+The v2 version works! Both the hinge and snap on is working perfectly. However, with the snap on thing, it's a little hard for the pcb to insert in the box comfortably and it's hard to press the switch buttons. I'll be working on a v3 by extruding a little more height for comfortable pcb placement and work on the switches to add a structure on top that lets the button be pressed nicely. 
