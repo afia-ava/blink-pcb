@@ -1,4 +1,4 @@
-# blink-pcb
+# Blink PCB
 
 **Components:**
 - Blink PCB
@@ -12,4 +12,8 @@ I am soldering the components and making a case for it, possibly with hinges for
 
 
 ![Soldered PCB](images/blink-pcb.jpeg)
+![CAD model](images/blink-case-v2.png)
 ![Case making](images/blink-hinge.png)
+
+
+Read the Build [Journal](JOURNAL.md) !
